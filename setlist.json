@@ -1,0 +1,280 @@
+{
+"meta": {
+"start": "20:30",
+"gap": 20
+},
+"items": [
+{
+"k": "intro",
+"t": "Cuenta atrás",
+"d": 600,
+"key": "",
+"link": false,
+"note": ""
+},
+{
+"k": "tema",
+"t": "Intro + NTPC Estribillo",
+"d": 216,
+"key": "E",
+"link": true,
+"note": "Archivo: «INTRO Y NTPC.wav» (Biblioteca de temas; viene de la Riviera 2023). Solo hasta el primer estribillo: falta marcar dónde corta."
+},
+{
+"k": "tema",
+"t": "Incendio en mí",
+"d": 211,
+"key": "G",
+"link": false,
+"note": ""
+},
+{
+"k": "tema",
+"t": "Chin chin",
+"d": 125,
+"key": "G",
+"link": false,
+"note": "Entero: lo ajustó Rubén a mano en la sesión 5 (8 nov). No cortar."
+},
+{
+"k": "charla",
+"t": "Saludo México",
+"d": 90,
+"key": "",
+"link": false,
+"note": ""
+},
+{
+"k": "tema",
+"t": "Flex",
+"d": 199,
+"key": "D#",
+"link": true,
+"note": ""
+},
+{
+"k": "tema",
+"t": "DÍA CERO (2A PARTE)",
+"d": 106,
+"key": "E",
+"link": false,
+"note": ""
+},
+{
+"k": "tema",
+"t": "Salto de fe",
+"d": 155,
+"key": "C#",
+"link": false,
+"note": ""
+},
+{
+"k": "charla",
+"t": "Charla",
+"d": 1,
+"key": "",
+"link": false,
+"note": ""
+},
+{
+"k": "tema",
+"t": "Islandia",
+"d": 109,
+"key": "D",
+"link": true,
+"note": "Fusión Islandia + Vente de la Riviera 2023: suena seguido, sin corte."
+},
+{
+"k": "tema",
+"t": "Vente (20)",
+"d": 168,
+"key": "D",
+"link": false,
+"note": ""
+},
+{
+"k": "tema",
+"t": "Una casa frente al mar",
+"d": 175,
+"key": "D",
+"link": false,
+"note": "Con D3llano: original con voz"
+},
+{
+"k": "charla",
+"t": "Charla",
+"d": 90,
+"key": "",
+"link": false,
+"note": ""
+},
+{
+"k": "tema",
+"t": "Ya me cansé",
+"d": 142,
+"key": "G",
+"link": false,
+"note": ""
+},
+{
+"k": "tema",
+"t": "Linda",
+"d": 168,
+"key": "F#",
+"link": false,
+"note": ""
+},
+{
+"k": "tema",
+"t": "Mi suerte",
+"d": 159,
+"key": "B",
+"link": true,
+"note": ""
+},
+{
+"k": "tema",
+"t": "170 km/h",
+"d": 210,
+"key": "B",
+"link": false,
+"note": ""
+},
+{
+"k": "descanso",
+"t": "INTERMEDIO \"COMO SI FUERA LA ÚLTIMA VEZ\")",
+"d": 201,
+"key": "",
+"link": false,
+"note": "Vídeo de YouTube con voz, entero (3:21), mientras Rubén se va. Montado como tema por si sale a cantarla: 72,47 bpm, A#, tune activo. El beat"
+},
+{
+"k": "tema",
+"t": "404",
+"d": 199,
+"key": "B",
+"link": false,
+"note": ""
+},
+{
+"k": "tema",
+"t": "Camino Recto",
+"d": 174,
+"key": "D",
+"link": false,
+"note": ""
+},
+{
+"k": "tema",
+"t": "Anxiety",
+"d": 148,
+"key": "A",
+"link": false,
+"note": "Cortar antes del Break"
+},
+{
+"k": "tema",
+"t": "Salir entero",
+"d": 126,
+"key": "B",
+"link": false,
+"note": "Versión 2026 (Lanzamientos/2. SALIR ENTERO/5SALIR ENTERO - Master 5.wav) hasta 2:06; el fade lo hace Rubén. 92 bpm fijos, Si mayor (Sol# men"
+},
+{
+"k": "charla",
+"t": "Charla",
+"d": 90,
+"key": "",
+"link": false,
+"note": ""
+},
+{
+"k": "tema",
+"t": "Crisálida (estribillo)",
+"d": 60,
+"key": "C#",
+"link": true,
+"note": "Piano «pre no sé» de la gira 24-25: 24 compases que aceleran (95 → 102) y caen en No sé. La cola del piano suena encima del arranque de No s"
+},
+{
+"k": "tema",
+"t": "No sé → Supernova",
+"d": 288,
+"key": "C#",
+"link": true,
+"note": "Un solo audio"
+},
+{
+"k": "tema",
+"t": "Derramo el licor",
+"d": 262,
+"key": "C#",
+"link": false,
+"note": "Completo (Derramo22, 4:22): estribillo a capela, rompe, 1.ª parte y estribillo. Recortar a oído. · En la 12: debajo, en la pista 2, la versi"
+},
+{
+"k": "tema",
+"t": "29",
+"d": 139,
+"key": "B",
+"link": false,
+"note": ""
+},
+{
+"k": "tema",
+"t": "3:43",
+"d": 165,
+"key": "G",
+"link": false,
+"note": "Recortar"
+},
+{
+"k": "tema",
+"t": "Me preguntaba → Me mato",
+"d": 350,
+"key": "B",
+"link": false,
+"note": "Un solo bloque"
+},
+{
+"k": "charla",
+"t": "Charla",
+"d": 90,
+"key": "",
+"link": false,
+"note": ""
+},
+{
+"k": "tema",
+"t": "Llórame",
+"d": 227,
+"key": "B",
+"link": false,
+"note": ""
+},
+{
+"k": "tema",
+"t": "Me va bonito",
+"d": 197,
+"key": "A",
+"link": false,
+"note": "Cierre: lo más escuchado en México"
+},
+{
+"k": "tema",
+"t": "Perdóname x ser yo",
+"d": 221,
+"key": "G#",
+"link": false,
+"note": ""
+},
+{
+"k": "outro",
+"t": "Música de salida (Sfera Ebbasta)",
+"d": 192,
+"key": "",
+"link": false,
+"note": ""
+}
+]
+}
